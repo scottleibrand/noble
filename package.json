@@ -41,7 +41,7 @@
     "node-gyp-build": "^4.8.4"
   },
   "optionalDependencies": {
-    "@abandonware/bluetooth-hci-socket": "^0.5.3-11"
+    "bluetooth-hci-socket": "github:xdrip-js/node-bluetooth-hci-socket#xdrip-js"
   },
   "devDependencies": {
     "async": "^3.2.4",
